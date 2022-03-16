@@ -1,11 +1,3 @@
-# alienautomation
----
-![](https://img.shields.io/github/last-commit/anoniex/alienworldsauto?style=flat-square)
-![](https://img.shields.io/github/release-date/anoniex/alienworldsauto?style=flat-square)
-![](https://img.shields.io/badge/OpenSource-%E2%9D%A4-red?style=flat-square)
-
----
-
 A Python script made to automate the tidious job of mining on AlienWorlds
 
 This script:
@@ -14,11 +6,6 @@ This script:
 - Automatically mines and claims
 - Prevents being detected as a bot
 
-
----
-##### AlienAutomation was made for educational purposes only, the developers and contributors do not take any responsibility for your WAX.io, AlienWorlds and, or Reddit accounts.
----
-
 ### Requirements
 - Python 3.7 or greater
 - Brave browser
@@ -26,8 +13,6 @@ This script:
 - Installed requiremets.txt
 - A Reddit account
 - A Wax.io account created using your Reddit
-
----
 
 ## Instalation guide
 ### Install Python and modules
@@ -49,24 +34,3 @@ This script:
 13. Start the script by running main.py!
 14. Do not resize the window.
 15. Have fun!
-
-
-#### *Any problems? [Submit an issue](https://github.com/anonieX/alienworldsauto/issues/new), or email me!*
----
-
-## Donations
-***Donations help keep this project maintained***
-
-WAX: `dgnrc.wam`
-
-BTC: `bc1q7phv0kg5ukzcz0tqhwpld6zk0s49g5mglvrlna`
-
-ETH: `0x39473DAd80A08e8f840B2F11f8BC750BFaBc1AE9`
-
-TRX: `TJpyRcMTJvTouWtqoZBMG2ZPNeLRo9xFho`
-
-ADA: `addr1qx3d2fd4maxtkz234fkglwuev4d3rnzmpespxewyttnnwr4z65jmth6vhvy4r2nv37aeje2mz8x9krnqzdjugkh8xu8qxde7kp`
-
-DOGE: `D78Ekkfr1RdRRyodyqv4KWH3Lji6nRH9qT`
-
-NANO: `nano_1ews9xhasm87ifuw84ddeoesjrufk95fmdyaf9yucaonpoo3dbmumermjkpm`
